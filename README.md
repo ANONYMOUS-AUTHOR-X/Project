@@ -1,4 +1,4 @@
-# Reproducibility Resources for "Metadata-based Term Selection for Modularization and Uniform Interpolation of OWL Ontologies"
+# Code for CIKM 2021 Submission 46
 
 ## Term Selection Experiments
 
